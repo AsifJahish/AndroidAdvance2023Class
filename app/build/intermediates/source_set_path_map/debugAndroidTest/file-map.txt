@@ -1,0 +1,6 @@
+com.example.todo.test.app-annotation-experimental-1.3.0-0 /home/asifjahish/.gradle/caches/transforms-3/2cb4b5a46196d7fcbae48de0cc76e1e0/transformed/annotation-experimental-1.3.0/res
+com.example.todo.test.app-core-1.5.0-1 /home/asifjahish/.gradle/caches/transforms-3/e3e60d3267ff99f2ffe64e4464df67f4/transformed/core-1.5.0/res
+com.example.todo.test.app-androidTest-2 /home/asifjahish/AndroidStudioProjects/Todo/app/build/generated/res/resValues/androidTest/debug
+com.example.todo.test.app-mergeDebugAndroidTestResources-3 /home/asifjahish/AndroidStudioProjects/Todo/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.todo.test.app-mergeDebugAndroidTestResources-4 /home/asifjahish/AndroidStudioProjects/Todo/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.todo.test.app-merged_res-5 /home/asifjahish/AndroidStudioProjects/Todo/app/build/intermediates/merged_res/debugAndroidTest
